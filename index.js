@@ -15,5 +15,7 @@ function nowServing(p) {
 
 function currentLine(p) {
   let line = []
-  if (p.length)
+  if (p.length === 0){
+    
+  }
 }
