@@ -14,5 +14,6 @@ function nowServing(p) {
 }
 
 function currentLine(p) {
-  let p 
+  let line = []
+  
 }
