@@ -19,7 +19,7 @@ function currentLine(p) {
     return "The line is currently empty"
   } else {
     for(var i = 0; i < p.length; i++) {
-      line = line.slice(0, line.length)
+      line = line.slice(0, line.length-2)
     }
     
 }
