@@ -20,6 +20,7 @@ function currentLine(p) {
   } else {
     for(var i = 0; i < p.length; i++) {
       line = line.slice(0, line.length-2)
+      return "the line is currently"
     }
     
 }
