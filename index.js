@@ -17,5 +17,7 @@ function currentLine(p) {
   let line = []
   if (p.length === 0){
     return "The line is currently empty"
-  }
+  } else {
+    
+}
 }
