@@ -6,7 +6,9 @@ function takeANumber(katzDeliLine, name) {
 }
 
 function nowServing(person) {
-  n === 0
+  if (x === 0) {
+    
+  }
   
 }
 
