@@ -1,7 +1,7 @@
 var katzDeli = []
 
-function takeANumber(number, name) {
-  
+function takeANumber(katzDeliLine, name) {
+  name.push()
 }
 
 function nowServing(person) {
