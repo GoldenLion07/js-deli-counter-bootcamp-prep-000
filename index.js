@@ -22,6 +22,5 @@ function currentLine(p) {
       line = line.slice(0, line.length-2)
       return "the line is currently: " + line
     }
-    
-}
+  }
 }
