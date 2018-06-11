@@ -9,7 +9,7 @@ function nowServing(p) {
   if (p === 0) { "There is nobody waiting to be served!"} else {
     var name = p[0];
     p.splice(0, 1)
-    return currently serving
+    return "Currently serving " + name
   }
     
   }
