@@ -16,6 +16,6 @@ function nowServing(p) {
 function currentLine(p) {
   let line = []
   if (p.length === 0){
-    return ""
+    return "The line is currently empty"
   }
 }
